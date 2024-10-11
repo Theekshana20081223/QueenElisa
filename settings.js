@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;=QFOydFaZhVQpwd=14511030749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -19,21 +19,21 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://kavi:kavi1@cluster0.yd7kp77.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
+  OWNER_NAME: '~Kavii Zer™',
+  OWNER_NUMBER: '94703011541',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
-  WORK_MODE: 'group',
+  WORK_MODE: 'onlyinbox',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
+  CAPTION: '© 𝙒𝙚 𝙖𝙧𝙚 𝙨𝙝𝙖𝙥𝙚𝙙 𝙗𝙮 𝙤𝙪𝙧 𝙩𝙝𝙤𝙪𝙜𝙝𝙩𝙨; 𝙬𝙚 𝙗𝙚𝙘𝙤𝙢𝙚 𝙬𝙝𝙖𝙩 𝙬𝙚 𝙩𝙝𝙞𝙣𝙠. 𝙒𝙝𝙚𝙣 𝙩𝙝𝙚 𝙢𝙞𝙣𝙙 𝙞𝙨 𝙥𝙪𝙧𝙚, 𝙟𝙤𝙮 𝙛𝙤𝙡𝙡𝙤𝙬𝙨 𝙡𝙞𝙠𝙚 𝙖 𝙨𝙝𝙖𝙙𝙤𝙬 𝙩𝙝𝙖𝙩 𝙣𝙚𝙫𝙚𝙧 𝙡𝙚𝙖𝙫𝙚𝙨💕',
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
   STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
-  REMOVE_BG_APIKEY: '',
+  REMOVE_BG_APIKEY: '9D24SWh7zNdu7QkVo9Z7JQCa',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
